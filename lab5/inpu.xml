@@ -1,0 +1,5 @@
+<bands>
+<MusicBand><id>1</id><name>Pupa</name><coordinates><x>153.0</x><y>-66</y></coordinates><creationDate>0</creationDate><numberOfParticipants>8</numberOfParticipants><genre>PSYCHEDELIC_ROCK</genre><bestAlbum><name>Lupa</name><tracks>15</tracks><sales>1500</sales></bestAlbum></MusicBand>
+<MusicBand><id>2</id><name>mama</name><coordinates><x>550.0</x><y>635</y></coordinates><creationDate>0</creationDate><numberOfParticipants>15</numberOfParticipants><genre>BRIT_POP</genre><bestAlbum><name>fff</name><tracks>10</tracks><sales>10000</sales></bestAlbum></MusicBand>
+<MusicBand><id>3</id><name>mewmemew</name><coordinates><x>112.0</x><y>541</y></coordinates><creationDate>1649789286677</creationDate><numberOfParticipants>123</numberOfParticipants><genre>POST_ROCK</genre><bestAlbum><name>123</name><tracks>123</tracks><sales>31203012300</sales></bestAlbum></MusicBand>
+</bands>
